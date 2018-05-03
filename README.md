@@ -11,3 +11,10 @@ Beta!
 --
 
 The tool is at the beta testing stage.
+
+Author and license
+--
+
+Morulus <vladimirmorulus@gmail.com>
+
+Under [MIT](./LICENSE) license, 2018

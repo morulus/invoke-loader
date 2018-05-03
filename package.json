@@ -1,6 +1,6 @@
 {
   "name": "invoke-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Webpack loader, which invokes another loader with given options.",
   "main": "lib/index.js",
   "scripts": {
