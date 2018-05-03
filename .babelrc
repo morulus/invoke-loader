@@ -1,0 +1,14 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "node": "4.0"
+      },
+      "shippedProposals": true
+    }]
+  ],
+  "plugins": [
+    "transform-es2015-spread",
+    ["transform-object-rest-spread", { "useBuiltIns": true }]
+  ]
+}
