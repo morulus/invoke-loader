@@ -1,6 +1,6 @@
 {
   "name": "invoke-loader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Webpack loader, which invokes another loader with given options.",
   "main": "lib/index.js",
   "scripts": {
@@ -26,5 +26,16 @@
     "babel-core": "^6.26.3",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.1"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morulus/invoke-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/morulus/invoke-loader/issues"
+  },
+  "homepage": "https://github.com/morulus/invoke-loader#readme"
 }
